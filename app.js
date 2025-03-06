@@ -6,7 +6,7 @@ let msg =document.querySelector("#msg");
 
 let turnO = true;
 let count = 0;
-let b;
+
 const winPattern =[
     [0, 1, 2],
     [0, 3, 6],
