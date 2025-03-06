@@ -1,2 +1,3 @@
 # Tic-Toc-Toe
-This is TIc-Toc-Toe game.
+This is Tic-Toc-Toe game.All concept use in this game.
+like HTML, CSS ,Javascript.
